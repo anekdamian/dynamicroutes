@@ -1,0 +1,18 @@
+{
+    "plugins": [
+        {
+            "display": "Test Plugin",
+            "version": "0.0.1",
+            "path": "testplugin",
+            "file": "test",
+            "Component":"TestPlugin"
+        },
+        {
+            "display": "Another Plugin",
+            "version": "0.0.1",
+            "path": "anothertest",
+            "file": "othertest",
+            "Component":"TestPluginDeux"
+        }
+    ]
+}

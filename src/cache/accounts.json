@@ -1,0 +1,72 @@
+[{
+  "userid": "578",
+  "firstName": "Alfie",
+   "lastName": "Robles",
+   "username": "anekdamian",
+   "userLevel": "0",
+   "projects": "",
+   "type": "user"
+ },
+ {
+  "userid": "392",
+  "firstName": "Colin",
+   "lastName": "Maggs",
+   "username": "qwixlman",
+   "userLevel": "5",
+   "projects": "",
+   "type": "user"
+ },
+ {
+  "userid": "293",
+  "firstName": "Laura",
+   "lastName": "Gomez",
+   "username": "lahorita",
+   "userLevel": "4",
+   "projects": "",
+   "type": "client"
+ },
+ {
+  "userid": "218",
+  "firstName": "Jose",
+   "lastName": "Flores",
+   "username": "chepina",
+   "userLevel": "3",
+   "projects": "",
+   "type": "client"
+ },
+ {
+  "userid": "213",
+  "firstName": "Erik",
+   "lastName": "Hasse",
+   "username": "ehasse",
+   "userLevel": "5",
+   "projects": "",
+   "type": "client"
+ },
+ {
+  "userid": "215",
+  "firstName": "John",
+   "lastName": "Flores",
+   "username": "jflores",
+   "userLevel": "2",
+   "projects": "",
+   "type": "contractor"
+ },
+ {
+  "userid": "782",
+  "firstName": "Frank",
+   "lastName": "Miller",
+   "username": "frankiemiller",
+   "userLevel": "5",
+   "projects": "",
+   "type": "contractor"
+ },
+ {
+  "userid":"966",
+  "firstName": "Robert",
+   "lastName": "Thoren",
+   "username": "trebornoreht",
+   "userLevel": "0",
+   "projects": "",
+   "type": "user"
+ }]

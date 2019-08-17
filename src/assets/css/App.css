@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+  width: 80%;
+  display: block;
+  margin: 5vh auto;
+
+}
+
+ul{
+  list-style-type: none;
+  padding: 0;
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+}
+
+ul.mainNav li{
+  float: left;
+  margin-right: 1vw;
+}
+
+.filterNav{
+  margin-bottom: 60px;
+}
+
+.filterNav ul{
+  list-style-type: none;
+}
+
+.filterNav ul li{
+  float: left;
+  margin-right: 10px;
+}
+
+.clearfix{
+  float: none;
+  clear: both;
+}
+
+.projectblock {
+  width:95%;
+  display: block;
+  margin: 1vh auto;
+  border: 1px solid #ccc;
+  padding: 15px;
+  border-radius: 25px;
+  box-shadow: 0 8px 8px #aaa;
+}

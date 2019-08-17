@@ -1,0 +1,21 @@
+    {
+        "mainNav":[
+            {"path":"", "display":"Home"},
+            {"path":"projectlist/all", "display":"Project View"},
+            {"path":"newproject/project/null", "display":"New Project"},
+            {"path":"newpost/list", "display":"New Action List"},
+            {"path":"newpost/task", "display":"New Task"}
+        ],
+        "filters":[
+            {"path": "all","display": "All"},
+            {"path": "backlog","display": "Backlog"},
+            {"path": "open","display": "Open"},
+            {"path": "inProgress","display": "In Progress"},
+            {"path": "underReview","display": "Under Review"},
+            {"path": "closed","display": "Closed"},
+            {"path": "cancelled","display": "Cancelled"},
+            {"path": "onHold","display": "On Hold"},
+            {"path": "rejected","display": "Rejected"},
+            {"path": "completed","display": "Completed"}
+          ]
+    }

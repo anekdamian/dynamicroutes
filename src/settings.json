@@ -1,0 +1,12 @@
+[
+    {
+        "server":{
+            "server":"http://",
+        },
+        "local":{
+            "language":"en-us",
+            "country":"us",
+            "currency":"usd"
+        }
+    }
+]
